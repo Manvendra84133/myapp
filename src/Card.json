@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "IC's",
+    "description": "chips are single-chip processor for measuring positions without-contact using resonan....",
+    "image": "images/product_card1.jpg",
+    "price": "$12.99",
+    "category": "Sensors"
+  },
+  {
+    "id": 2,
+    "name": "Streaming Adapter",
+    "description": "Sensor chips are dies incorporating semiconducter circuit elements that are used day....",
+    "image": "images/product_card2.jpg",
+    "price": "$10.49",
+    "category": "Sensors"
+  },
+  {
+    "id": 3,
+    "name": "CTU Adapter",
+    "description": "A selection of development tools availabel to assist the evaluation and integrations and doing tasks",
+    "image": "images/product_card3.jpg",
+    "price": "$18.99",
+    "category": "Sensors"
+  },
+  {
+    "id": 4,
+    "name": "Basic Rotary Sensors",
+    "description": "The type 3&4 CAM204 Development Board includes a CAM204 chip and the external circuit....",
+    "image": "images/product_card4.jpg",
+    "price": "$9.99",
+    "category": "Security"
+  },
+  {
+    "id": 5,
+    "name": "Short Stroke Linear",
+    "description": "For demonstration, test and development purposes, it is conveneint communicate with....",
+    "image": "images/product_card9.jpg",
+    "price": "$14.99",
+    "category": "Distance"
+  },
+  {
+    "id": 6,
+    "name": "11mm E-core target",
+    "description": "CAM502 Development Board includes a high-speed CAM502 chip and external circuitry....",
+    "image": "images/product_card6.jpg",
+    "price": "$7.49",
+    "category": "Infrared"
+  },
+  {
+    "id": 7,
+    "name": "CAM204",
+    "description": "Targets mark moving parts, so their position can be sened with resonant inductive....",
+    "image": "images/product_card7.jpg",
+    "price": "$21.99",
+    "category": "Industrial"
+  },
+  {
+    "id": 8,
+    "name": "Arc Positions Sensors",
+    "description": "A selection of development tools availabel assist the evaulation and integration....",
+    "image": "images/product_card8.jpg",
+    "price": "$6.99",
+    "category": "Light"
+  },
+  {
+    "id": 9,
+    "name": "Imagine Technologies Fully",
+    "description": "For demonstration, test and development purposes, it is conveneint communicate with....",
+    "image": "images/product_card9.jpg",
+    "price": "$8.99",
+    "category": "Audio"
+  },
+  {
+    "id": 10,
+    "name": "Linear Sensors",
+    "description": "For demonstration, test and development purposes, it is conveneint communicate with....",
+    "image": "images/product_corusel-1.jpg",
+    "price": "$19.49",
+    "category": "Motion"
+  },
+  {
+    "id": 11,
+    "name": "Leyden Water Tank Use High",
+    "description": "For demonstration, test and development purposes, it is conveneint communicate with....",
+    "image": "images/big-card-4.jpg",
+    "price": "$22.99",
+    "category": "Motion"
+  },
+  {
+    "id": 12,
+    "name": "Sensor Module Reflective",
+    "description": "For demonstration, test and development purposes, it is conveneint communicate with....",
+    "image": "images/big-card-1.jpg",
+    "price": "$5.99",
+    "category": "Power"
+  },
+  {
+    "id": 13,
+    "name": "MFRC RC522 RFID-RC522 RF IC Card",
+    "description": "Manushre Manas Enterprises RC522 RFID-RC522 RF IC Card Reader Sensor Module....",
+    "image": "images/card_img-1.jpeg",
+    "price": "$11.99",
+    "category": "Power"
+  },
+  {
+    "id": 14,
+    "name": "MFRC RC522 RFID-RC522 RF IC Card",
+    "description": "Grahikum RC522 RFID-RC522 RF IC Card Reader Sensor Module S50 13.56MHz RFID.....",
+    "image": "images/card_img-2.jpeg",
+    "price": "$4.99",
+    "category": "Control"
+  },
+  {
+    "id": 15,
+    "name": "5pcs LM393 Chip Motor Measuring Sensor",
+    "description": "Super Debug 5pcs LM393 Chip Motor Measuring Comparator Speed Sensor Module Slot...",
+    "image": "images/card_img-3.jpeg",
+    "price": "$29.99",
+    "category": "Boards"
+  },
+  {
+    "id": 16,
+    "name": "Hx711 Weight Weighing Load Cell Sensors",
+    "description": "Scriptronics Hx711 Weight Weighing Load Cell Conversion Module Sensors Ad Module....",
+    "image": "images/card_img-4.jpeg",
+    "price": "$13.99",
+    "category": "Wireless"
+  },
+  {
+    "id": 17,
+    "name": "IR Infrared Sensor Modul kit",
+    "description": "APTECHDEALS IR Infrared Sensor Module Reflective Photoelectric Light Intensity....",
+    "image": "images/card_img-5.jpeg",
+    "price": "$16.99",
+    "category": "Wireless"
+  },
+  {
+    "id": 18,
+    "name": "Combo IR Proximity Sensor",
+    "description": "DHRUV-PRO Combo IR Proximity Sensor Or 5V One Channel Relay Module with Isola....",
+    "image": "images/card_img-6.jpeg",
+    "price": "$24.99",
+    "category": "Vision"
+  },
+  {
+    "id": 19,
+    "name": "Combo IR Proximity Sensor",
+    "description": "DHRUV-PRO Combo IR Proximity Sensor Or 5V One Channel Relay Module with Isola....",
+    "image": "images/card_img-7.jpeg",
+    "price": "$14.49",
+    "category": "Display"
+  },
+  {
+    "id": 20,
+    "name": "Ultrasonic Sensor Modul SG90",
+    "description": "AlphaCore Ultrasonic Sensor Modul With SG90 Servo Motor and 10 pc....",
+    "image": "images/card_img-8.jpeg",
+    "price": "$6.49",
+    "category": "Input"
+  },
+  {
+    "id": 21,
+    "name": "Combo IR Proximity Sensor",
+    "description": "DHRUV-PRO Combo IR Proximity Sensor Or 5V One Channel Relay Module with Isola....",
+    "image": "images/card_img-6.jpeg",
+    "price": "$6.49",
+    "category": "Input"
+  },
+  {
+    "id": 22,
+    "name": "Combo IR Proximity Sensor",
+    "description": "DHRUV-PRO Combo IR Proximity Sensor Or 5V One Channel Relay Module with Isola....",
+    "image": "images/card_img-7.jpeg",
+    "price": "$6.49",
+    "category": "Input"
+  },
+  {
+    "id": 23,
+    "name": "Hx711 Weight Weighing Load Cell Sensors",
+    "description": "Scriptronics Hx711 Weight Weighing Load Cell Conversion Module Sensors Ad Module....",
+    "image": "images/card_img-4.jpeg",
+    "price": "$6.49",
+    "category": "Input"
+  },
+  {
+    "id": 24,
+    "name": "IR Infrared Sensor Modul kit",
+    "description": "APTECHDEALS IR Infrared Sensor Module Reflective Photoelectric Light Intensity....",
+    "image": "images/card_img-5.jpeg",
+    "price": "$6.49",
+    "category": "Input"
+  },
+  {
+    "id": 25,
+    "name": "Combo IR Proximity Sensor",
+    "description": "DHRUV-PRO Combo IR Proximity Sensor Or 5V One Channel Relay Module with Isola....",
+    "image": "images/card_img-7.jpeg",
+    "price": "$6.49",
+    "category": "Input"
+  }
+]

@@ -11,6 +11,8 @@ import FAQ from './Components/FAQ';
 
 import { Route,Routes } from 'react-router-dom';
 import MyForm from './Components/MyForm';
+import Form from './Components/Form';
+import MyForm1 from './Components/MyForm1';
 
 function App() {
   return (
@@ -33,7 +35,9 @@ function App() {
         <Route path="/faq" element={<FAQ />} />
         <Route path="/login" element={<Login />} />
         <Route path="/registration" element={<Registration />} />
-        <Route path="/form" element={<MyForm />} />
+        <Route path="/myform" element={<MyForm />} />
+        <Route path="/form" element={<Form />} />
+        <Route path="/form2" element={<MyForm1 />} />
 
       </Routes>
 
